@@ -75,7 +75,7 @@ Auf GitHub kannst du über **Code → Download ZIP** das Projekt herunterladen.
 Alternativ kannst du es mit Git klonen:
 
 ```bash
-git clone [<REPOSITORY-URL>](https://github.com/Benninator11/SiliconWiki.git)
+git clone https://github.com/Benninator11/SiliconWiki.git
 ```
 
 
